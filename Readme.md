@@ -1,3 +1,3 @@
 # Easy hack tools
 
-This repository is a for terminal tools for ethical hacking
+This repository is of scripts for easier hacking process
